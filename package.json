@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "version": "0.1.0",
+  "main": "main.js",
+  "repository": "git@github.com:ghostsecurity/gs-cc-node-basic.git",
+  "author": "Ghost Security <info@ghost.security>",
+  "scripts": {
+    "start": "nodemon start"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
